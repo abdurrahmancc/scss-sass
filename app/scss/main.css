@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  outline: none;
+  font-size: 200px;
+}
+
+h1 {
+  margin-top: 200px;
+  color: #ff652f;
+}
+
+h1:hover {
+  color: #272727;
+}/*# sourceMappingURL=main.css.map */
